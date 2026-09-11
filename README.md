@@ -42,6 +42,8 @@ Telegram automation that collects RSS and Atom sources, scores and deduplicates 
 
 ### Other work
 
+See the bilingual [project case-studies catalog](https://github.com/Mastn1kth/portfolio-case-studies) for the full project map, including safe descriptions of work that is not published as source.
+
 - AI Startup Radar: FastAPI, React, PostgreSQL, Redis, Celery, Qdrant, Ollama, and Docker.
 - CultureMatch: React Native and Node.js product prototype with PostgreSQL and PostGIS, Socket.IO, Redis-ready services, OpenAPI, and typed validation.
 - Peptide Tools: responsive Vite frontend and isolated Python calculation API with Docker and CI smoke tests.
