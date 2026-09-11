@@ -1,5 +1,7 @@
 # Hi, I'm Aleksandr Simunin
 
+[English](README.md) | [Русский](README_RU.md)
+
 Full-stack and mobile developer focused on real-time applications, business automation, AI-assisted products, and privacy-aware software.
 
 I build complete products from interface and application logic to APIs, databases, integrations, deployment, testing, and operational tooling. My recent work spans React, React Native, Flutter, Node.js, Python, PostgreSQL, WebSocket, WebRTC, Docker, and Cloudflare.
@@ -56,4 +58,4 @@ Telegram Mini App demo built with FastAPI, SQLite, WebSocket games, Telegram aut
 
 ## Contact
 
-[Email](mailto:aleksandrsimunin828@gmail.com)
+[Email](mailto:aleksandrsimunin828@gmail.com) · [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%81%D0%B8%D0%BC%D1%83%D0%BD%D0%B8%D0%BD-4bb12a436/)
