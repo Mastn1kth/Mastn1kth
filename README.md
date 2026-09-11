@@ -16,7 +16,7 @@ Restaurant operations and loyalty platform with an Expo React Native app, Node.j
 
 Privacy-focused web and mobile messenger built with React, Express, PostgreSQL, Redis, WebSocket, WebRTC, and Capacitor. It includes private chats, groups, channels, media, calls, push notifications, moderation, backups, horizontal scaling, and automated tests. The repository is currently private.
 
-### LectureVault
+### [LectureVault](https://github.com/Mastn1kth/lecturevault)
 
 Cross-platform lecture recording and transcription application for Android, iOS, and desktop. It processes audio with Groq Whisper, structures notes with Gemini, and saves Markdown directly to an Obsidian vault. The Android app uses background recording, resumable processing, encrypted API-key storage, and safe file access.
 
@@ -28,13 +28,17 @@ Flutter goal tracker for Android and iOS with prioritized daily actions, progres
 
 React and TypeScript PWA for clinic operations: shifts, tasks, incidents, checklists, announcements, team suggestions, role-based access, audit history, optimistic concurrency, and encrypted backups.
 
-### Pet Translator AI
+### [Pet Translator AI](https://github.com/Mastn1kth/pet-translator-ai)
 
 React Native and Expo entertainment app with local TFLite-based pet sound recognition, live camera analysis, achievements, notifications, sharing, and release APK and AAB pipelines.
 
 ### [Casino Mini App](https://github.com/Mastn1kth/casino-mini-app)
 
 Telegram Mini App demo built with FastAPI, SQLite, WebSocket games, Telegram authentication, history, leaderboards, and verifiable seeds for supported games. It uses virtual coins only.
+
+### [AI/IT News Bot](https://github.com/Mastn1kth/ai-news-bot)
+
+Telegram automation that collects RSS and Atom sources, scores and deduplicates AI/IT news, stores operational data locally, and prepares Russian-language posts. Paid AI services are optional.
 
 ### Other work
 
