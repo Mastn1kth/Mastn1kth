@@ -1,12 +1,18 @@
-# Hi, I'm Aleksandr Simunin
+# Aleksandr Simunin
 
 [English](README.md) | [Русский](README_RU.md)
 
-Full-stack and mobile developer focused on real-time applications, business automation, AI-assisted products, and privacy-aware software.
+**Full-stack & mobile developer** building real-time applications, business automation, AI-assisted products, and privacy-aware software.
+
+[LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%81%D0%B8%D0%BC%D1%83%D0%BD%D0%B8%D0%BD-4bb12a436/) · [Project case studies](https://github.com/Mastn1kth/portfolio-case-studies) · [Email](mailto:aleksandrsimunin828@gmail.com)
+
+`React` `React Native` `Flutter` `Node.js` `Python` `TypeScript` `PostgreSQL` `WebSocket` `Docker` `Cloudflare`
 
 I build complete products from interface and application logic to APIs, databases, integrations, deployment, testing, and operational tooling. My recent work spans React, React Native, Flutter, Node.js, Python, PostgreSQL, WebSocket, WebRTC, Docker, and Cloudflare.
 
 ## Selected projects
+
+Each entry below is either a public repository or an accurate scope summary; private source and third-party foundations are explicitly identified.
 
 ### [Gory Staff](https://github.com/Mastn1kth/gory-staff)
 
@@ -44,6 +50,12 @@ Telegram Mini App demo built with FastAPI, SQLite, WebSocket games, Telegram aut
 
 Telegram automation that collects RSS and Atom sources, scores and deduplicates AI/IT news, stores operational data locally, and prepares Russian-language posts. Paid AI services are optional.
 
+## What I work on
+
+- End-to-end web and mobile delivery: product interfaces, APIs, data models, integrations, testing, release workflows, and production tooling.
+- Real-time and operational products: WebSocket, Socket.IO, WebRTC, offline-first workflows, notifications, roles, audit history, and backups.
+- AI and media workflows: speech-to-text, structured notes, local/on-device ML, retrieval and automation, always with clear boundaries around privacy and user consent.
+
 ### Other work
 
 See the bilingual [project case-studies catalog](https://github.com/Mastn1kth/portfolio-case-studies) for the full project map, including safe descriptions of work that is not published as source.
@@ -65,7 +77,3 @@ See the bilingual [project case-studies catalog](https://github.com/Mastn1kth/po
 **Infrastructure and quality:** Docker, Docker Compose, Cloudflare Workers and Tunnels, GitHub Actions, Playwright, Vitest, pytest, structured logging, health checks, backups, and release automation
 
 **Additional:** WebRTC, OAuth, TOTP, push notifications, accessibility, offline-first synchronization, Unreal Engine C++, Unity, iikoCloud, Twilio
-
-## Contact
-
-[Email](mailto:aleksandrsimunin828@gmail.com) · [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%81%D0%B8%D0%BC%D1%83%D0%BD%D0%B8%D0%BD-4bb12a436/)

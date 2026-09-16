@@ -1,12 +1,18 @@
-# Привет, я Александр Симунин
+# Александр Симунин
 
 [English](README.md) | [Русский](README_RU.md)
 
-Full stack и mobile разработчик. Создаю realtime-приложения, системы автоматизации бизнеса, AI-продукты и программы с продуманной защитой данных.
+**Full stack и mobile разработчик.** Создаю realtime-приложения, системы автоматизации бизнеса, AI-продукты и программы с продуманной защитой данных.
+
+[LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%81%D0%B8%D0%BC%D1%83%D0%BD%D0%B8%D0%BD-4bb12a436/) · [Каталог кейсов](https://github.com/Mastn1kth/portfolio-case-studies) · [Email](mailto:aleksandrsimunin828@gmail.com)
+
+`React` `React Native` `Flutter` `Node.js` `Python` `TypeScript` `PostgreSQL` `WebSocket` `Docker` `Cloudflare`
 
 Разрабатываю продукт целиком: интерфейс, мобильное приложение, API, базу данных, интеграции, тесты, сборку, деплой и инструменты эксплуатации. В последних проектах использую React, React Native, Flutter, Node.js, Python, PostgreSQL, WebSocket, WebRTC, Docker и Cloudflare.
 
 ## Основные проекты
+
+Ниже — либо открытые репозитории, либо точные описания объёма работы. Закрытые исходники и сторонняя кодовая база явно отмечены.
 
 ### [Горы Staff](https://github.com/Mastn1kth/gory-staff)
 
@@ -44,6 +50,12 @@ React и TypeScript PWA для операционных процессов кл�
 
 Telegram-автоматизация, которая собирает RSS и Atom источники, оценивает и удаляет дубли AI/IT-новостей, ведёт локальные операционные данные и готовит посты на русском языке. Платные AI-сервисы необязательны.
 
+## Над чем работаю
+
+- Полный цикл web- и mobile-разработки: интерфейсы, API, модели данных, интеграции, тесты, релизные процессы и инструменты эксплуатации.
+- Realtime- и операционные продукты: WebSocket, Socket.IO, WebRTC, offline-first сценарии, уведомления, роли, аудит и резервное копирование.
+- AI и медиа: распознавание речи, структурированные конспекты, локальные/on-device ML-модели, поиск и автоматизация — с явными границами приватности и согласием пользователя.
+
 ### Другие работы
 
 Полная карта работ, включая безопасные описания проектов без опубликованных исходников, есть в двуязычном [каталоге кейсов](https://github.com/Mastn1kth/portfolio-case-studies).
@@ -65,7 +77,3 @@ Telegram-автоматизация, которая собирает RSS и Atom
 **Инфраструктура и качество:** Docker, Docker Compose, Cloudflare Workers и Tunnels, GitHub Actions, Playwright, Vitest, pytest, структурированные логи, health checks, резервное копирование и release automation
 
 **Дополнительно:** WebRTC, OAuth, TOTP, push-уведомления, accessibility, offline-first синхронизация, Unreal Engine C++, Unity, iikoCloud, Twilio
-
-## Контакты
-
-[Email](mailto:aleksandrsimunin828@gmail.com) · [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%81%D0%B8%D0%BC%D1%83%D0%BD%D0%B8%D0%BD-4bb12a436/)
