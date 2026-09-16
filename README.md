@@ -2,7 +2,7 @@
 
 [English](README.md) | [Русский](README_RU.md)
 
-**Full-stack & mobile developer** building real-time applications, business automation, AI-assisted products, and privacy-aware software.
+**Full-stack & mobile developer** building real-time applications, business automation, and privacy-aware software.
 
 [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%81%D0%B8%D0%BC%D1%83%D0%BD%D0%B8%D0%BD-4bb12a436/) · [Project case studies](https://github.com/Mastn1kth/portfolio-case-studies) · [Email](mailto:aleksandrsimunin828@gmail.com)
 
@@ -24,7 +24,7 @@ Privacy-focused web and mobile messenger built with React, Express, PostgreSQL, 
 
 ### [LectureVault](https://github.com/Mastn1kth/lecturevault)
 
-Cross-platform lecture recording and transcription application for Android, Windows, iOS, and macOS. It records or imports audio, sends data only after explicit consent through a protected AI gateway, creates structured Markdown notes and mini-tests, and saves them directly to an Obsidian vault. Recent work adds desktop tray processing, Apple clients, safer vault setup, recovery after interrupted processing, gateway diagnostics, and a local Android fallback when a model was downloaded in advance.
+Cross-platform lecture recording and transcription application for Android, Windows, iOS, and macOS. It records or imports audio, sends data only after explicit consent through a protected processing gateway, creates structured Markdown notes and mini-tests, and saves them directly to an Obsidian vault. Recent work adds desktop tray processing, Apple clients, safer vault setup, recovery after interrupted processing, gateway diagnostics, and a local Android fallback when a model was downloaded in advance.
 
 ### [Logisim Lab](https://github.com/Mastn1kth/logisim)
 
@@ -32,7 +32,7 @@ Classroom-oriented fork of Logisim-evolution for designing and simulating digita
 
 ### [Goal Rings](https://github.com/Mastn1kth/goal-rings)
 
-Flutter goal tracker for Android and iOS with prioritized daily actions, progress rings, streaks, anti-slip recovery, local persistence, notifications, widgets, and an optional AI assistant with a deterministic offline fallback.
+Flutter goal tracker for Android and iOS with prioritized daily actions, progress rings, streaks, anti-slip recovery, local persistence, notifications, widgets, and an optional assistant with a deterministic offline fallback.
 
 ### Clinic Pulse
 
@@ -48,13 +48,13 @@ Telegram Mini App demo built with FastAPI, SQLite, WebSocket games, Telegram aut
 
 ### [AI/IT News Bot](https://github.com/Mastn1kth/ai-news-bot)
 
-Telegram automation that collects RSS and Atom sources, scores and deduplicates AI/IT news, stores operational data locally, and prepares Russian-language posts. Paid AI services are optional.
+Telegram automation that collects RSS and Atom sources, scores and deduplicates technology news, stores operational data locally, and prepares Russian-language posts. Optional external services are isolated behind configuration.
 
 ## What I work on
 
 - End-to-end web and mobile delivery: product interfaces, APIs, data models, integrations, testing, release workflows, and production tooling.
 - Real-time and operational products: WebSocket, Socket.IO, WebRTC, offline-first workflows, notifications, roles, audit history, and backups.
-- AI and media workflows: speech-to-text, structured notes, local/on-device ML, retrieval and automation, always with clear boundaries around privacy and user consent.
+- Practical AI-tool use and media workflows: speech-to-text, structured notes, on-device models, retrieval and automation, with clear boundaries around privacy and user consent.
 
 ### Other work
 
@@ -63,8 +63,8 @@ See the bilingual [project case-studies catalog](https://github.com/Mastn1kth/po
 - AI Startup Radar: FastAPI, React, PostgreSQL, Redis, Celery, Qdrant, Ollama, and Docker.
 - CultureMatch: React Native and Node.js product prototype with PostgreSQL and PostGIS, Socket.IO, Redis-ready services, OpenAPI, and typed validation.
 - Peptide Tools: responsive Vite frontend and isolated Python calculation API with Docker and CI smoke tests.
-- FPV prototypes: Unity strategy prototype and Unreal Engine C++ FPV drone prototype with flight physics, AI, missions, HUD, and save systems.
-- Telegram automation: business booking bot, city news workflow with human moderation, movie search bot, and AI news aggregation with scoring and deduplication.
+- FPV prototypes: Unity strategy prototype and Unreal Engine C++ FPV drone prototype with flight physics, behavior systems, missions, HUD, and save systems.
+- Telegram automation: business booking bot, city news workflow with human moderation, movie search bot, and technology-news aggregation with scoring and deduplication.
 
 ## Technologies
 
@@ -72,7 +72,7 @@ See the bilingual [project case-studies catalog](https://github.com/Mastn1kth/po
 
 **Backend and data:** Node.js, Express, Python, FastAPI, PostgreSQL, SQLite, PGlite, Redis, SQLAlchemy, WebSocket, Socket.IO, REST APIs
 
-**AI and media:** Groq Whisper, Gemini, Ollama, Qdrant, TFLite, ONNX and Transformers.js, audio and video processing
+**Applied tools and media:** experience using Groq Whisper, Gemini, Ollama, Qdrant, TFLite, ONNX and Transformers.js; audio and video processing
 
 **Infrastructure and quality:** Docker, Docker Compose, Cloudflare Workers and Tunnels, GitHub Actions, Playwright, Vitest, pytest, structured logging, health checks, backups, and release automation
 
