@@ -18,7 +18,11 @@ Privacy-focused web and mobile messenger built with React, Express, PostgreSQL, 
 
 ### [LectureVault](https://github.com/Mastn1kth/lecturevault)
 
-Cross-platform lecture recording and transcription application for Android, iOS, and desktop. It processes audio with Groq Whisper, structures notes with Gemini, and saves Markdown directly to an Obsidian vault. The Android app uses background recording, resumable processing, encrypted API-key storage, and safe file access.
+Cross-platform lecture recording and transcription application for Android, Windows, iOS, and macOS. It records or imports audio, sends data only after explicit consent through a protected AI gateway, creates structured Markdown notes and mini-tests, and saves them directly to an Obsidian vault. Recent work adds desktop tray processing, Apple clients, safer vault setup, recovery after interrupted processing, gateway diagnostics, and a local Android fallback when a model was downloaded in advance.
+
+### [Logisim Lab](https://github.com/Mastn1kth/logisim)
+
+Classroom-oriented fork of Logisim-evolution for designing and simulating digital logic circuits. Added the cross-platform Circuit Check / «Проверка схемы» workflow, Russian localization, and self-contained Windows and macOS packages that include Java so students can run the application without installing a separate runtime.
 
 ### [Goal Rings](https://github.com/Mastn1kth/goal-rings)
 
