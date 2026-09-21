@@ -18,9 +18,9 @@ Each entry below is either a public repository or an accurate scope summary; pri
 
 Restaurant operations and loyalty platform with an Expo React Native app, Node.js and Express API, PostgreSQL, Socket.IO, offline-first workflows, and integrations with iikoCloud, Twilio, OAuth, and Cloudflare.
 
-### AstraChat Onda
+### [AstraChat Onda](https://github.com/Mastn1kth/AstraChat)
 
-Privacy-focused web and mobile messenger built with React, Express, PostgreSQL, Redis, WebSocket, WebRTC, and Capacitor. It includes private chats, groups, channels, media, calls, push notifications, moderation, backups, horizontal scaling, and automated tests. The repository is currently private.
+Privacy-focused web and mobile messenger built with React, Express, PostgreSQL, Redis, WebSocket, WebRTC, and Capacitor. It includes private chats, groups, channels, media, calls, push notifications, moderation, backups, horizontal scaling, and automated tests.
 
 ### [LectureVault](https://github.com/Mastn1kth/lecturevault)
 
