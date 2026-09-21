@@ -18,9 +18,9 @@
 
 Система управления рестораном и программой лояльности. Включает Expo React Native приложение, API на Node.js и Express, PostgreSQL, Socket.IO, offline-first сценарии и интеграции с iikoCloud, Twilio, OAuth и Cloudflare.
 
-### AstraChat Onda
+### [AstraChat Onda](https://github.com/Mastn1kth/AstraChat)
 
-Веб и mobile мессенджер с акцентом на приватность. Построен на React, Express, PostgreSQL, Redis, WebSocket, WebRTC и Capacitor. Поддерживает личные чаты, группы, каналы, медиа, звонки, push-уведомления, модерацию, резервное копирование, горизонтальное масштабирование и автоматизированные тесты. Репозиторий пока приватный.
+Веб и mobile мессенджер с акцентом на приватность. Построен на React, Express, PostgreSQL, Redis, WebSocket, WebRTC и Capacitor. Поддерживает личные чаты, группы, каналы, медиа, звонки, push-уведомления, модерацию, резервное копирование, горизонтальное масштабирование и автоматизированные тесты.
 
 ### [LectureVault](https://github.com/Mastn1kth/lecturevault)
 
