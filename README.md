@@ -34,9 +34,9 @@ Classroom-oriented fork of Logisim-evolution for designing and simulating digita
 
 Flutter goal tracker for Android and iOS with prioritized daily actions, progress rings, streaks, anti-slip recovery, local persistence, notifications, widgets, and an optional assistant with a deterministic offline fallback.
 
-### Clinic Pulse
+### [Clinic Pulse](https://github.com/Mastn1kth/clinic-pulse)
 
-React and TypeScript PWA for clinic operations: shifts, tasks, incidents, checklists, announcements, team suggestions, role-based access, audit history, optimistic concurrency, and encrypted backups.
+React and TypeScript PWA for clinic operations: shifts, tasks, incidents, checklists, announcements, team suggestions, role-based access, audit history, optimistic concurrency, and encrypted backups. It is an operational pilot and explicitly excludes patient medical records, diagnoses, and treatment data.
 
 ### [Pet Translator AI](https://github.com/Mastn1kth/pet-translator-ai)
 
