@@ -77,7 +77,8 @@ Telegram-бот для поиска фильмов и сериалов чере�
 - [ControlPanel](https://github.com/Mastn1kth/ControlPanel): локальная панель управления проектами: процессы, порты, системные метрики, логи, история действий и контролируемые команды разработки.
 - [Alarm App](https://github.com/Mastn1kth/alarm_app_v5): Flutter-прототип будильника с Android-расписанием, миссиями пробуждения, защитой от обхода, локальной статистикой и достижениями.
 - [Peptide Tools](https://github.com/Mastn1kth/peptide-tools-website): переработанный адаптивный Vite-интерфейс, конфигурация деплоя и изолированный API расчётов с Docker и CI smoke tests. Базовый научный расчётный toolkit — [AstraZeneca/peptide-tools](https://github.com/AstraZeneca/peptide-tools); он указан и атрибутирован в репозитории.
-- FPV прототипы: стратегия на Unity и Unreal Engine C++ проект с физикой дрона, поведенческими системами, миссиями, HUD и сохранениями.
+- [FPV Unreal Prototype](https://github.com/Mastn1kth/fpv-unreal-prototype): C++-прототип на Unreal Engine 5 с управлением FPV-полётом, логикой миссий, HUD, сохранениями, целями, транспортом и игровыми системами поведения противников. В публичной версии оставлены исходники и документация; импортированные ассеты и сборки намеренно исключены.
+- [Telegram VPN Subscription Bot](https://github.com/Mastn1kth/telegram-vpn-subscription-bot): Python Telegram-бот и React Mini App-прототип для тарифов, оплат, устройств, рефералов, границ интеграции WireGuard/Outline и конфигурации развёртывания.
 - Telegram-автоматизация: бот записи для малого бизнеса, городской новостной workflow с модерацией, поиск фильмов и агрегатор технологических новостей.
 
 ## Технологии

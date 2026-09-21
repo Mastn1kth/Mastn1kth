@@ -77,7 +77,8 @@ See the bilingual [project case-studies catalog](https://github.com/Mastn1kth/po
 - [ControlPanel](https://github.com/Mastn1kth/ControlPanel): local project operations panel for process health, ports, system metrics, logs, action history, and controlled development commands.
 - [Alarm App](https://github.com/Mastn1kth/alarm_app_v5): Flutter task-based alarm-clock prototype with Android scheduling, wake-up missions, anti-bypass logic, local statistics, and achievements.
 - [Peptide Tools](https://github.com/Mastn1kth/peptide-tools-website): redesigned responsive Vite frontend, deployment configuration, and isolated calculation API with Docker and CI smoke tests. The underlying scientific calculation toolkit is [AstraZeneca/peptide-tools](https://github.com/AstraZeneca/peptide-tools); it is linked and attributed in the repository.
-- FPV prototypes: Unity strategy prototype and Unreal Engine C++ FPV drone prototype with flight physics, behavior systems, missions, HUD, and save systems.
+- [FPV Unreal Prototype](https://github.com/Mastn1kth/fpv-unreal-prototype): Unreal Engine 5 C++ gameplay prototype for FPV flight controls, mission flow, HUD, save state, targets, vehicles, and opponent behaviour systems. The public repository contains source and documentation; imported art and builds are intentionally excluded.
+- [Telegram VPN Subscription Bot](https://github.com/Mastn1kth/telegram-vpn-subscription-bot): Python Telegram bot and React Mini App prototype for plans, payments, device management, referrals, WireGuard/Outline provisioning boundaries, and deployment-oriented configuration.
 - Telegram automation: business booking bot, city news workflow with human moderation, movie search bot, and technology-news aggregation with scoring and deduplication.
 
 ## Technologies
