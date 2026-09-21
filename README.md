@@ -66,7 +66,6 @@ Telegram bot for film and TV discovery through TMDB, with normal and inline sear
 
 - End-to-end web and mobile delivery: product interfaces, APIs, data models, integrations, testing, release workflows, and production tooling.
 - Real-time and operational products: WebSocket, Socket.IO, WebRTC, offline-first workflows, notifications, roles, audit history, and backups.
-- Practical AI-tool use and media workflows: speech-to-text, structured notes, on-device models, retrieval and automation, with clear boundaries around privacy and user consent.
 
 ### Other work
 
