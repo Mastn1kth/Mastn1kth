@@ -71,8 +71,11 @@ Telegram bot for film and TV discovery through TMDB, with normal and inline sear
 
 See the bilingual [project case-studies catalog](https://github.com/Mastn1kth/portfolio-case-studies) for the full project map, including safe descriptions of work that is not published as source.
 
-- AI Startup Radar: FastAPI, React, PostgreSQL, Redis, Celery, Qdrant, Ollama, and Docker.
-- CultureMatch: React Native and Node.js product prototype with PostgreSQL and PostGIS, Socket.IO, Redis-ready services, OpenAPI, and typed validation.
+- [AI Startup Radar](https://github.com/Mastn1kth/ai-startup-radar-v5-final): startup-intelligence prototype using FastAPI, React, PostgreSQL, Redis, Celery, Qdrant, Ollama, and Docker.
+- [Cultur / CultureMatch](https://github.com/Mastn1kth/Cultur): React Native and Node.js MVP for friendship, events, and communities, with PostgreSQL/PostGIS, Socket.IO, Redis-ready services, OpenAPI, and typed validation.
+- [Talkora](https://github.com/Mastn1kth/Talkora): Russian-language English-learning web and Android prototype with lessons, personal vocabulary, device-based OCR/PDF import, offline progress, and a local Node.js/SQLite API.
+- [ControlPanel](https://github.com/Mastn1kth/ControlPanel): local project operations panel for process health, ports, system metrics, logs, action history, and controlled development commands.
+- [Alarm App](https://github.com/Mastn1kth/alarm_app_v5): Flutter task-based alarm-clock prototype with Android scheduling, wake-up missions, anti-bypass logic, local statistics, and achievements.
 - [Peptide Tools](https://github.com/Mastn1kth/peptide-tools-website): redesigned responsive Vite frontend, deployment configuration, and isolated calculation API with Docker and CI smoke tests. The underlying scientific calculation toolkit is [AstraZeneca/peptide-tools](https://github.com/AstraZeneca/peptide-tools); it is linked and attributed in the repository.
 - FPV prototypes: Unity strategy prototype and Unreal Engine C++ FPV drone prototype with flight physics, behavior systems, missions, HUD, and save systems.
 - Telegram automation: business booking bot, city news workflow with human moderation, movie search bot, and technology-news aggregation with scoring and deduplication.

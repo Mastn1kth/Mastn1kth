@@ -71,8 +71,11 @@ Telegram-бот для поиска фильмов и сериалов чере�
 
 Полная карта работ, включая безопасные описания проектов без опубликованных исходников, есть в двуязычном [каталоге кейсов](https://github.com/Mastn1kth/portfolio-case-studies).
 
-- AI Startup Radar: FastAPI, React, PostgreSQL, Redis, Celery, Qdrant, Ollama и Docker.
-- CultureMatch: React Native и Node.js прототип с PostgreSQL и PostGIS, Socket.IO, Redis-ready сервисами, OpenAPI и типизированной валидацией.
+- [AI Startup Radar](https://github.com/Mastn1kth/ai-startup-radar-v5-final): прототип платформы исследования стартапов на FastAPI, React, PostgreSQL, Redis, Celery, Qdrant, Ollama и Docker.
+- [Cultur / CultureMatch](https://github.com/Mastn1kth/Cultur): React Native и Node.js MVP для дружбы, событий и сообществ с PostgreSQL/PostGIS, Socket.IO, Redis-ready сервисами, OpenAPI и типизированной валидацией.
+- [Talkora](https://github.com/Mastn1kth/Talkora): русскоязычный web/Android прототип для изучения английского — уроки, личные слова, OCR/PDF на устройстве, офлайн-прогресс и локальный Node.js/SQLite API.
+- [ControlPanel](https://github.com/Mastn1kth/ControlPanel): локальная панель управления проектами: процессы, порты, системные метрики, логи, история действий и контролируемые команды разработки.
+- [Alarm App](https://github.com/Mastn1kth/alarm_app_v5): Flutter-прототип будильника с Android-расписанием, миссиями пробуждения, защитой от обхода, локальной статистикой и достижениями.
 - [Peptide Tools](https://github.com/Mastn1kth/peptide-tools-website): переработанный адаптивный Vite-интерфейс, конфигурация деплоя и изолированный API расчётов с Docker и CI smoke tests. Базовый научный расчётный toolkit — [AstraZeneca/peptide-tools](https://github.com/AstraZeneca/peptide-tools); он указан и атрибутирован в репозитории.
 - FPV прототипы: стратегия на Unity и Unreal Engine C++ проект с физикой дрона, поведенческими системами, миссиями, HUD и сохранениями.
 - Telegram-автоматизация: бот записи для малого бизнеса, городской новостной workflow с модерацией, поиск фильмов и агрегатор технологических новостей.
