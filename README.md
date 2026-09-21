@@ -50,6 +50,18 @@ Telegram Mini App demo built with FastAPI, SQLite, WebSocket games, Telegram aut
 
 Telegram automation that collects RSS and Atom sources, scores and deduplicates technology news, stores operational data locally, and prepares Russian-language posts. Optional external services are isolated behind configuration.
 
+### [Telegram Business Booking Bot](https://github.com/Mastn1kth/telegram-business-booking-bot)
+
+Booking workflow for local service businesses: appointment slots, reminders, administrator actions, client records, reporting, and Excel export. Built with Python, aiogram, SQLAlchemy, Alembic, SQLite, and optional Redis-backed state.
+
+### [City News Moderation Bot](https://github.com/Mastn1kth/city-news-moderation-bot)
+
+Human-in-the-loop Telegram workflow that collects RSS, web, and public-channel sources, prepares drafts, compares summaries with source material, and requires moderator approval before publishing.
+
+### [Telegram Movie Finder](https://github.com/Mastn1kth/telegram-movie-finder)
+
+Telegram bot for film and TV discovery through TMDB, with normal and inline search, result cards, favourites, and history. It provides metadata and links only; it does not distribute copyrighted media.
+
 ## What I work on
 
 - End-to-end web and mobile delivery: product interfaces, APIs, data models, integrations, testing, release workflows, and production tooling.
@@ -62,7 +74,7 @@ See the bilingual [project case-studies catalog](https://github.com/Mastn1kth/po
 
 - AI Startup Radar: FastAPI, React, PostgreSQL, Redis, Celery, Qdrant, Ollama, and Docker.
 - CultureMatch: React Native and Node.js product prototype with PostgreSQL and PostGIS, Socket.IO, Redis-ready services, OpenAPI, and typed validation.
-- Peptide Tools: responsive Vite frontend and isolated Python calculation API with Docker and CI smoke tests.
+- [Peptide Tools](https://github.com/Mastn1kth/peptide-tools-website): redesigned responsive Vite frontend, deployment configuration, and isolated calculation API with Docker and CI smoke tests. The underlying scientific calculation toolkit is [AstraZeneca/peptide-tools](https://github.com/AstraZeneca/peptide-tools); it is linked and attributed in the repository.
 - FPV prototypes: Unity strategy prototype and Unreal Engine C++ FPV drone prototype with flight physics, behavior systems, missions, HUD, and save systems.
 - Telegram automation: business booking bot, city news workflow with human moderation, movie search bot, and technology-news aggregation with scoring and deduplication.
 

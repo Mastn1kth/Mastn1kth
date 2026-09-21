@@ -50,6 +50,18 @@ React и TypeScript PWA для операционных процессов кл�
 
 Telegram-автоматизация, которая собирает RSS и Atom источники, оценивает и удаляет дубли технологических новостей, ведёт локальные операционные данные и готовит посты на русском языке. Внешние сервисы подключаются через конфигурацию.
 
+### [Telegram Business Booking Bot](https://github.com/Mastn1kth/telegram-business-booking-bot)
+
+Бот записи для локального сервиса: слоты, напоминания, действия администратора, база клиентов, отчётность и экспорт в Excel. Использованы Python, aiogram, SQLAlchemy, Alembic, SQLite и опционально Redis для хранения состояний.
+
+### [City News Moderation Bot](https://github.com/Mastn1kth/city-news-moderation-bot)
+
+Telegram-workflow с участием модератора: собирает RSS, сайты и открытые каналы, готовит черновики, сверяет пересказ с источником и публикует только после подтверждения человека.
+
+### [Telegram Movie Finder](https://github.com/Mastn1kth/telegram-movie-finder)
+
+Telegram-бот для поиска фильмов и сериалов через TMDB: обычный и inline-поиск, карточки результатов, избранное и история. Даёт только метаданные и ссылки, без распространения защищённого контента.
+
 ## Над чем работаю
 
 - Полный цикл web- и mobile-разработки: интерфейсы, API, модели данных, интеграции, тесты, релизные процессы и инструменты эксплуатации.
@@ -62,7 +74,7 @@ Telegram-автоматизация, которая собирает RSS и Atom
 
 - AI Startup Radar: FastAPI, React, PostgreSQL, Redis, Celery, Qdrant, Ollama и Docker.
 - CultureMatch: React Native и Node.js прототип с PostgreSQL и PostGIS, Socket.IO, Redis-ready сервисами, OpenAPI и типизированной валидацией.
-- Peptide Tools: адаптивный Vite-интерфейс и изолированный Python API расчётов с Docker и CI smoke tests.
+- [Peptide Tools](https://github.com/Mastn1kth/peptide-tools-website): переработанный адаптивный Vite-интерфейс, конфигурация деплоя и изолированный API расчётов с Docker и CI smoke tests. Базовый научный расчётный toolkit — [AstraZeneca/peptide-tools](https://github.com/AstraZeneca/peptide-tools); он указан и атрибутирован в репозитории.
 - FPV прототипы: стратегия на Unity и Unreal Engine C++ проект с физикой дрона, поведенческими системами, миссиями, HUD и сохранениями.
 - Telegram-автоматизация: бот записи для малого бизнеса, городской новостной workflow с модерацией, поиск фильмов и агрегатор технологических новостей.
 
